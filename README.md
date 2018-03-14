@@ -15,9 +15,6 @@
 
 ## Requirements
 
-### backend setup
-* copy a deployed backend project into this fork; any deployed backend will work
-
 ### Feature Tasks
 Load test a deployed backend and localhost using Artillery Report
 
