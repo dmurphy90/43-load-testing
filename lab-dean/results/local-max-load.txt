@@ -1,0 +1,76 @@
+Started phase 0, duration: 3s @ 17:55:59(-0700) 2018-03-27
+Started phase 1, duration: 5s @ 17:56:02(-0700) 2018-03-27
+Report @ 17:56:09(-0700) 2018-03-27
+  Scenarios launched:  3504
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 389.77
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ECONNREFUSED: 1002
+
+Report @ 17:56:19(-0700) 2018-03-27
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: NaN
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ECONNREFUSED: 883
+
+Report @ 17:56:29(-0700) 2018-03-27
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: NaN
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ECONNREFUSED: 1036
+
+Report @ 17:56:37(-0700) 2018-03-27
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: NaN
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ECONNREFUSED: 67
+    ETIMEDOUT: 516
+
+All virtual users finished
+Summary report @ 17:56:37(-0700) 2018-03-27
+  Scenarios launched:  3504
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 95.74
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    Create Users: 3504 (100%)
+  Errors:
+    ECONNREFUSED: 2988
+    ETIMEDOUT: 516
